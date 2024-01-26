@@ -181,11 +181,7 @@
         rgba(52, 153, 219, 0.8),
         #222,
         #000
-      ),
-      /*
-      url("")
-      */
-      ;
+      );
     
     background-size: cover;
     background-position: center;
