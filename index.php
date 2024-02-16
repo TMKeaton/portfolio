@@ -100,7 +100,7 @@
   </h3>
   <br>
   <div class="col-xs-12 col-sm-6 col-md-3 project-box">
-    <a href="#" class="thumbnail" target="_BLANK">
+    <a href="https://tmkeaton.github.io/plasma.coin/" class="thumbnail" target="_BLANK">
       <span class="glyphicon glyphicon-bitcoin" aria-hidden="true"></span>
       &nbsp;Plasma Coin
     </a>
